@@ -14,6 +14,6 @@ The **Stanley Controller** is a lateral vehicle controller that computes the **s
   δ = Qe + CTE
 
 -This controller ensures the vehicle follows the path smoothly while correcting both **yaw differences** and **lateral deviations**.
-
-- **Simulations**
-  ![Simulation of Stanley](images/Stanley.gif.gif)
+---
+### Simulations
+![Simulation of Stanley](images/Stanley.gif.gif)
